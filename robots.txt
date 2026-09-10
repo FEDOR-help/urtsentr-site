@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /images/
 
-Sitemap: https://sasha131080-cloud.github.io/urtsentr-site/sitemap.xml
+Sitemap: https://fedor-help.github.io/urtsentr-site/sitemap.xml
